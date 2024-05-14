@@ -1,0 +1,10 @@
+/* AccordionDemo.module.css */
+.accordionContent:hover {
+    background-color: green;
+  }
+
+  /* styles.css or equivalent */
+.accordion-content:hover {
+    background-color: green;
+  }
+  
